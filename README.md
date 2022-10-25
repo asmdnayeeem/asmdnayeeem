@@ -23,7 +23,7 @@
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40"/>
 <img src="https://img.icons8.com/nolan/64/github.png"  width="40" height="40" />
 </p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmdnayeeem&show_icons=true&locale=en" alt="asmdnayeeem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmdnayeeem&&show_icons=true&title_color=blue&icon_color=bb2acg&text_color=blue&bg_color=white" alt="asmdnayeeem" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmdnayeeem&show_icons=true&locale=en&layout=compact" alt="asmdnayeeem" /></p>
 
 
