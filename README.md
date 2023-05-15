@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mahammed Nayeem</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmdnayeeem&label=Profile%20views&color=0e75b6&style=flat" alt="asmdnayeeem" /> </p>
 
-- 🔭 I’m currently working on **Frontend Web dev**
+- 🔭 Building projects  on **Full Stack**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Caught an interest on **DevOps** and **Web 3**
 
 - 📫 How to reach me **asmdnayeem245@gmail.com**
 
@@ -27,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmdnayeeem&show_icons=true&locale=en&layout=compact" alt="asmdnayeeem" /></p>
 
 
-[![@nayeem's Holopin board](https://holopin.me/nayeem)](https://holopin.io/@nayeem)
